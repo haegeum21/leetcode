@@ -1,3 +1,7 @@
+/*
+    Time Complexity: O(n), where n is the length of the longer string
+    Space Complexity: O(n), where n is the length of the longer string
+*/
 class Solution {
 public:
     string mergeAlternately(string s, string t) {
